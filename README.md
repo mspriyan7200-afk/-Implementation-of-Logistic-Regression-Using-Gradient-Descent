@@ -11,7 +11,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 1. 
 2. 
 3. 
-4. 
+4.  
 
 ## Program:
 ```
