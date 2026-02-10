@@ -8,10 +8,17 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
+1.Load the dataset from a CSV file and separate the features and target variable, encoding any categorical variables as needed.
+
+2.Scale the features using a standard scaler to normalize the data.
+
+3.Initialize model parameters (theta) and add an intercept term to the feature set.
+
+4.Train the linear regression model using gradient descent by iterating through a specified number of iterations to minimize the cost function.
+
+5.Make predictions on new data by transforming it using the same scaling and encoding applied to the training data. 
+
+
 
 ## Program:
 ```
